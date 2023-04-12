@@ -1,0 +1,7 @@
+export * from './HomePage'
+export * from './PokemonPage'
+export * from './SearchPage'
+export * from './Login'
+export * from './Logout'
+export * from './Profile'
+export * from './Login2'
